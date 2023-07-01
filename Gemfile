@@ -71,5 +71,5 @@ group :test do
   gem "webdrivers"
 end
 
-gem 'bicrypt'
+gem 'bcrypt'
 gem "rack-cors", :require => 'rack/cors'
