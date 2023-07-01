@@ -1,0 +1,2 @@
+class DummyDatum < ApplicationRecord
+end
